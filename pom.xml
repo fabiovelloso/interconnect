@@ -64,7 +64,7 @@
         <repository>
             <id>jnosqllocal</id>
             <name>jnosql local repo</name>
-            <url>http://192.168.1.31:8081/nexus/content/repositories/jnosql/</url>
+            <url>http://localhost:8081/nexus/content/repositories/jnosql/</url>
         </repository>
         <repository>
             <id>unknown-jars-temp-repo</id>
